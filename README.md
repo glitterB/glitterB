@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @glitterB
+- 👀 I’m interested in Machine Learning and Creative Coding...
+- 🌱 I’m currently learning Machine Learning Algorithms...
+- 📫 I'm still a Begineer...
+
+<!---
+glitterB/glitterB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
