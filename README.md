@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Rushikesh aka glitterB
 - 🔩 I’m a Mechanical Engineer...
 - 👀 I’m interested in Machine Learning and Creative Coding...
-- 📫 I'm still a Begineer...
+- 📫 I enjoy learning new things.
+
 
 <!---
 glitterB/glitterB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
